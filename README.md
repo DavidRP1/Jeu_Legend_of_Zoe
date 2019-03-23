@@ -20,3 +20,7 @@ x: attaque tous les monstres dans le voisinage de Zoe, incluant les diagonales +
 o: ouvre tous les trésors dans le voisinage de Zoe jusqu’à 8 voisins
 
 q: ferme le jeu d’un coup sec avec System.exit(0);
+
+
+
+*voir le fichier Description_Exercice pour plus de détails
